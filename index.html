@@ -22,6 +22,24 @@
             padding: 1rem;
         }
 
+        .profile {
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            background-color: #f9f9f9;
+            padding: 2rem;
+        }
+
+        .profile img {
+            max-width: 200px;
+            border-radius: 50%;
+            margin-right: 1rem;
+        }
+
+        .profile-info {
+            text-align: left;
+        }
+
         .container {
             max-width: 800px;
             margin: 0 auto;
@@ -30,6 +48,10 @@
             box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
             border-radius: 5px;
             margin-top: 1rem;
+        }
+
+        .unit {
+            margin-bottom: 1.5rem;
         }
 
         footer {
@@ -46,15 +68,39 @@
         <h1>欢迎来到我的个人主页</h1>
     </header>
 
+    <div class="profile">
+        <img src="your_photo.jpg" alt="Your Photo">
+        <div class="profile-info">
+            <h2>你的姓名</h2>
+            <p>职业/学校等基本信息</p>
+        </div>
+    </div>
+
     <div class="container">
-        <h2>关于我</h2>
-        <p>你可以在这里简要地介绍你自己，包括你的兴趣、技能和学习经历。</p>
+        <div class="unit">
+            <h2>爱好</h2>
+            <p>这里列出你的爱好，可以使用无序列表：</p>
+            <ul>
+                <li>爱好1</li>
+                <li>爱好2</li>
+                <li>爱好3</li>
+                <!-- 添加更多爱好 -->
+            </ul>
+        </div>
 
-        <h2>我的作品</h2>
-        <p>这里可以列举你的一些项目或作品，附上链接或简短描述。</p>
+        <div class="unit">
+            <h2>荣誉</h2>
+            <p>这里列出你的荣誉，可以使用有序列表：</p>
+            <ol>
+                <li>荣誉1</li>
+                <li>荣誉2</li>
+                <li>荣誉3</li>
+                <!-- 添加更多荣誉 -->
+            </ol>
+        </div>
 
-        <h2>联系方式</h2>
-        <p>如果你愿意，可以在这里提供你的联系方式，例如电子邮件或社交媒体账号。</p>
+        <!-- 添加更多单元，比如教育经历、工作经验等 -->
+
     </div>
 
     <footer>
