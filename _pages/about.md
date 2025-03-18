@@ -1,5 +1,6 @@
 ---
 permalink: /
+title: "WZH's Homepage"
 author_profile: true
 redirect_from: 
   - /about/
@@ -7,6 +8,7 @@ redirect_from:
 ---
 News
 ======
+[2025.03.18] Zhehong Wang's homepage has been made!!!
 
 Short Biography
 ======
@@ -42,18 +44,18 @@ In my mind, the Top-n movies are:
 the Top-m series are:
 [응답하라](https://movie.douban.com/subject/26302614/), 
 [人民的名义](https://movie.douban.com/subject/26727273/), 
-[Yes, Prime Minister Series](https://movie.douban.com/subject/1441948/),. ..
+[Yes, Prime Minister Series](https://movie.douban.com/subject/1441948/), ...
 
 * Travelling everywhere, to enjoy both urban landscape and natural scenery.
 During my travelling experience(though somewhat poor), 
-the Top-k impressing city in my mind are QuanZhou, Amoy, Sydney, Dali, Chongqing
+the Top-k impressing city in my mind are QuanZhou, Amoy, Sydney, Dali, Chongqing.
 * I enjoy freehand drawing, such as 
 designing city metro lines, university campus layouts, airport layouts, and room floor plans,etc. 
 From ages 8, I studied drawing in cram schools for serval years, mainly focusing on sketching. I obtained the Grade 9 (the highest level) certificate in sketching awarded by [Social Art Level Testing Center of China Academy of Art](https://mskj.caa.edu.cn/).
 
 More About Me
 ======
-Recently, I've been enjoying sharing my life and random thoughts on Rednote（Xiaohongshu，小红书), 
-feel free to [follow me](https://www.xiaohongshu.com/user/profile/5f8c10eb000000000100a4fb)
+Recently, I've been enjoying sharing my life and random thoughts on Rednote(Xiaohongshu，小红书), 
+feel free to [follow me](https://www.xiaohongshu.com/user/profile/5f8c10eb000000000100a4fb).
 
 TODO
