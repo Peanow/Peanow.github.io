@@ -20,12 +20,12 @@ I received my B.Sc. degree from the Department of Computer Science and Technolog
 After graduation, I was recommended for admission without entrance exams to 
 School of Computer Science (the former Department of Computer Science and Technology),Nanjing University to pursue a master's degree.
 
-* Sept.2024 - current:   M.S. in computer technology, School of Computer Science
+* Sept.2024 - current: &nbsp;&nbsp;M.S. in computer technology, School of Computer Science
 * Sept.2020 - June.2024: B.S. in computer science and technology, Department of Computer Science and Technology, Nanjing University
 
 During my undergraduate years, I interned at [Qihoo 360](https://www.360.cn/) Technology Co Ltd.
 
-* Dec.2023 - Apr.2024: security software engineer, at Digital Security Group, Qihoo 360 Technology Co Ltd, Nanjing
+* Dec.2023 - Apr.2024: security software engineer, at Digital Security Group, Qihoo 360 Technology Co Ltd(Nanjing Branch)
 
 
 Create content & metadata
