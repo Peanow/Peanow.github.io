@@ -1,12 +1,12 @@
 ---
 permalink: /
-title: "Welcome to WZH's Personal Website"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-
+News
+======
 
 Short Biography
 ======
@@ -54,6 +54,6 @@ From ages 8, I studied drawing in cram schools for serval years, mainly focusing
 More About Me
 ======
 Recently, I've been enjoying sharing my life and random thoughts on Rednote（Xiaohongshu，小红书), 
-feel free to follow [my account](https://www.xiaohongshu.com/user/profile/5f8c10eb000000000100a4fb)
+feel free to [follow me](https://www.xiaohongshu.com/user/profile/5f8c10eb000000000100a4fb)
 
 TODO
