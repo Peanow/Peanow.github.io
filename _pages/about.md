@@ -1,12 +1,11 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Welcome to WZH's Personal Website"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-
 
 
 Short Biography
@@ -17,7 +16,7 @@ My primary research interests are edge computing and edge intelligence.
 
 Education
 ======
-* Sept.2024 - current: M.S. in computer technology, School of Computer Science
+* Sept.2024 - current:   M.S. in computer technology, School of Computer Science
 * Sept.2020 - June.2024: B.S. in computer science and technology, Department of Computer Science and Technology, Nanjing University
 
 Site-wide configuration
