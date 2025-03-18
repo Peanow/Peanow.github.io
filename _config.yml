@@ -23,9 +23,9 @@ repository               : "Peanow/peanow.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  name             : "Zhehong Wang"
+  pronouns         : "He"  
+  bio              : "C.S. Graduate Student"
   location         : "Nanjing"
   employer         : "Nanjing University"
   uri              : # URL
@@ -51,6 +51,7 @@ author:
 
   # Social media
   bluesky          : "bsky.app" # Replace this with you Bluesky username
+  rednote          : "momo"
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
