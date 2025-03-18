@@ -27,25 +27,33 @@ During my undergraduate years, I interned at [Qihoo 360](https://www.360.cn/) Te
 
 * Dec.2023 - Apr.2024: security software engineer, at Digital Security Group, Qihoo 360 Technology Co Ltd(Nanjing Branch).
 
+Publications
+======
+to be filled
+
 Hobby & Specialty
 ======
 * Watching movies and series, especially more classic one.
 In my mind, the Top-n movies are: 
 [Titanic](https://movie.douban.com/subject/1292722/), 
 [Love Letter](https://movie.douban.com/subject/1292220/), 
-[Flipped](https://movie.douban.com/subject/3319755/),
-[Interstellar](https://movie.douban.com/subject/1889243/),...
+[Flipped](https://movie.douban.com/subject/3319755/), 
+[Interstellar](https://movie.douban.com/subject/1889243/), ...
 the Top-m series are:
-[응답하라](https://movie.douban.com/subject/26302614/),
-[人民的名义](https://movie.douban.com/subject/26727273/),
-[Yes, Prime Minister Series](https://movie.douban.com/subject/1441948/),...
+[응답하라](https://movie.douban.com/subject/26302614/), 
+[人民的名义](https://movie.douban.com/subject/26727273/), 
+[Yes, Prime Minister Series](https://movie.douban.com/subject/1441948/),. ..
 
 * Travelling everywhere, to enjoy both urban landscape and natural scenery.
-During my travelling experience(though somewhat poor), the Top-k amazing city are QuanZhou, Amoy, Sydney, Dali, Chongqing
+During my travelling experience(though somewhat poor), 
+the Top-k impressing city in my mind are QuanZhou, Amoy, Sydney, Dali, Chongqing
 * I enjoy freehand drawing, such as 
 designing city metro lines, university campus layouts, airport layouts, and room floor plans,etc. 
 From ages 8, I studied drawing in cram schools for serval years, mainly focusing on sketching. I obtained the Grade 9 (the highest level) certificate in sketching awarded by [Social Art Level Testing Center of China Academy of Art](https://mskj.caa.edu.cn/).
 
-For more info
-------
+More About Me
+======
+Recently, I've been enjoying sharing my life and random thoughts on Rednote（Xiaohongshu，小红书), 
+feel free to follow [my account](https://www.xiaohongshu.com/user/profile/5f8c10eb000000000100a4fb)
+
 TODO
