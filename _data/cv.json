@@ -1,16 +1,16 @@
 {
   "basics": {
-    "name": "Your Sidebar Name",
-    "email": "none@example.org",
+    "name": "Zhehong Wang",
+    "email": "zhehongw@foxmail.com",
     "phone": "",
-    "website": "https://academicpages.github.io",
+    "website": "https://peanow.github.io",
     "summary": "Currently employed at Red Brick University. Short biography for the left-hand sidebar",
     "location": {
       "address": "",
       "postalCode": "",
-      "city": "Earth",
-      "countryCode": "US",
-      "region": ""
+      "city": "Nanjing",
+      "countryCode": "CN",
+      "region": "Jiang Su"
     },
     "profiles": [
       {

@@ -17,7 +17,8 @@ My primary research interests are edge computing and edge intelligence.
 Education & Work Experience
 ======
 I received my B.Sc. degree from the Department of Computer Science and Technology in Nanjing University in 2024.
-After graduation, I was recommended for admission without entrance exams to Nanjing University's School of Computer Science and Technology (the former Department of Computer Science and Technology) to pursue a master's degree.
+After graduation, I was recommended for admission without entrance exams to 
+School of Computer Science (the former Department of Computer Science and Technology),Nanjing University to pursue a master's degree.
 
 * Sept.2024 - current:   M.S. in computer technology, School of Computer Science
 * Sept.2020 - June.2024: B.S. in computer science and technology, Department of Computer Science and Technology, Nanjing University
